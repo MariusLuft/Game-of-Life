@@ -20,3 +20,6 @@ An implementation of Conway's Game of Life in C.
                   to iterate through each generation manually. 
                   
                   
+![Game-of-Life](https://github.com/MariusLuft/Game-of-Life/blob/master/game-of-life.PNG)
+                  
+                  
